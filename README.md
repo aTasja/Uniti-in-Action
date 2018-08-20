@@ -2,7 +2,7 @@
 Book by Joseph Hocking 1st edition
 
 
-Ch1
+Ch1 Hello world
 ------------
 
 
@@ -30,7 +30,7 @@ Ch1
 <br/>  
 <br/> 
 
-Ch2-Ch3
+Ch2-Ch3 First-Person Shooter
 ---------------
 
 
