@@ -16,7 +16,12 @@ public class WanderingAI : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         _alive = true;
-	}
+        
+        //Отключаем влияние среды на врага (чтобы сам не падал)
+        Rigidbody body = GetComponent<Rigidbody>();
+        if (body != null) //проверяем существует ли компонент
+            body.freezeRotation = true;
+    }
 	
 	// Update is called once per frame
 	void Update () {
