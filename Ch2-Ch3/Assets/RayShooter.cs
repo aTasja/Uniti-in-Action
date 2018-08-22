@@ -57,7 +57,7 @@ public class RayShooter : MonoBehaviour {
         Destroy(sphere);
     }
 
-    void OnGui()
+    void OnGUI()
     {
         int size = 12;
         float posX = _camera.pixelWidth / 2 - size / 4;
