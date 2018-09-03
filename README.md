@@ -70,22 +70,24 @@ Ch4 Graphics
 Ch5 Memory Card Game
 ---------------------
 
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch5/Scene.png" align="left" height="500" width="650">
+
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 Ch6 Putting a 2D GUI in a 3D game
 ---------------------------------
 
 
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
   <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch6/Scene.png" align="left" height="500" width="650">
   
