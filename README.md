@@ -101,3 +101,32 @@ Ch6 Putting a 2D GUI in a 3D game
 
   <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch6/Scene.png" align="left" height="500" width="650">
   
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+
+Ch6 from 2nd Edition of the book - Creating a basic 2D platformer
+------------------------------------
+
+
+  <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch6-2ndEdition/Scene.png" align="left" height="500" width="650">
+  
