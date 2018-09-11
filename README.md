@@ -184,7 +184,7 @@ Ch7 - Creating a third-person 3D game: player movement and animation
 Ch8 - Adding interactive devices and items within the game
 -----------------------------------------------------------------
 
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch8/Scene.png" align="left" height="500" width="750">
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch8/Scene.png" align="left" height="500" width="850">
 
 
   
