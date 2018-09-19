@@ -186,5 +186,34 @@ Ch8 - Adding interactive devices and items within the game
 
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch8/Scene.png" align="left" height="500" width="850">
 
+    <br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
+  
+Ch10 from 2nd Edition of the book - Connecting your game to the internet
+-----------------------------------------------------------------
+
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch10-2ndEdition/Scene.png" align="left" height="500" width="850">
+
+
 
   
