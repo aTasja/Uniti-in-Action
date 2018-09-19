@@ -1,5 +1,5 @@
 # Unity-in-Action
-Book by Joseph Hocking 1st edition
+Book by Joseph Hocking 1st-2nd editions
 
 
 Ch1 Hello world
