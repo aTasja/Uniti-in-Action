@@ -79,6 +79,10 @@
     <Compile Include="Assets\Scripts\Managers\ManagerStatus.cs" />
     <Compile Include="Assets\Scripts\Managers\NetworkService.cs" />
     <Compile Include="Assets\Scripts\Managers\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\Messenger\GameEvent.cs" />
+    <Compile Include="Assets\Scripts\Messenger\InventoryPopup.cs" />
+    <Compile Include="Assets\Scripts\Messenger\Messenger.cs" />
+    <Compile Include="Assets\Scripts\Messenger\UIController.cs" />
     <Compile Include="Assets\Scripts\OrbitCamera.cs" />
     <Compile Include="Assets\Scripts\PointClickMovement.cs" />
     <Compile Include="Assets\Scripts\RelatativeMovement.cs" />
