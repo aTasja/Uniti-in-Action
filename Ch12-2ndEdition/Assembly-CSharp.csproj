@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BaseDevice.cs" />
     <Compile Include="Assets\Scripts\BasicUI.cs" />
     <Compile Include="Assets\Scripts\CollectibleItem.cs" />
     <Compile Include="Assets\Scripts\Devices\ColorChangeDevice.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets\Scripts\Managers\NetworkService.cs" />
     <Compile Include="Assets\Scripts\Managers\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\Scripts\PointClickMovement.cs" />
     <Compile Include="Assets\Scripts\RelatativeMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/MediaHub/06_Unity/Ch12-2ndEdition/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
