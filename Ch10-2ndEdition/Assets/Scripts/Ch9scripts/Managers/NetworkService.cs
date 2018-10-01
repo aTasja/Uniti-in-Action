@@ -2,7 +2,7 @@
 using UnityEngine.Networking;
 using System.Collections;
 using System;
-
+using System.Globalization;
 
 public class NetworkService
 {
@@ -50,7 +50,12 @@ public class NetworkService
         WWWForm form = new WWWForm();
         form.AddField("message", name);
         form.AddField("cloud_value", cloudValue.ToString());
-        form.AddField("timestamp", DateTime.UtcNow.Ticks.ToString());
+        //form.AddField("timestamp", DateTime.UtcNow.Ticks.ToString());
+
+        //string date = DateTime.Now.ToShortDateString() + "--" + DateTime.Now.ToShortTimeString();
+        string date = DateTime.Now.ToString("dd-MM-yyyy hh:mm:ss", new CultureInfo("en-US"));
+        form.AddField("timestamp", date);
+        
 
         return CallAPI(localApi, form, callback);
     }
