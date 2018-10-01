@@ -1,1 +1,8 @@
 Book/
+Library
+ Temp
+ *.sln
+ *.csproj
+ *.unityproj
+ *.pidb
+ *.userprefs
