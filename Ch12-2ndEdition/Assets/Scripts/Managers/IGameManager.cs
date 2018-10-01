@@ -6,6 +6,6 @@ public interface IGameManager {
     ManagerStatus status { get; }
 
     // Use this for initialization
-    void Startup(); 
+    void Startup(NetworkService service); 
 	
 }

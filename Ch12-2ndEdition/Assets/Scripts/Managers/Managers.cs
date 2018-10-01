@@ -25,9 +25,11 @@ public class Managers : MonoBehaviour {
 
     private IEnumerator StartupManagers()
     {
-        foreach(IGameManager manager in _startSequence)
+        NetworkService network = new NetworkService();
+
+        foreach (IGameManager manager in _startSequence)
         {
-            manager.Startup();
+            manager.Startup(network);
         }
         yield return null;
 

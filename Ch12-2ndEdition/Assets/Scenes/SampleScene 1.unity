@@ -2121,6 +2121,17 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1616241199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1616241196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e25f0a05225b92844b54017931faa526, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1616241200 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400038, guid: 34fd69fd2f12fc047a525afe50e83ce0,
@@ -2822,6 +2833,7 @@ GameObject:
   - component: {fileID: 2048165915}
   - component: {fileID: 2048165914}
   - component: {fileID: 2048165918}
+  - component: {fileID: 2048165919}
   m_Layer: 0
   m_Name: GameManagers
   m_TagString: Untagged
@@ -2886,6 +2898,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aaeb91ed2993b3d41b60a130335daa15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2048165919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2048165913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 239861a5c8a5c2746a6d502274a9ada7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1322366521377556, guid: e4c2dd1497c4604449d22cc105fdc2d3,
+    type: 2}
 --- !u!1 &2048301291
 GameObject:
   m_ObjectHideFlags: 0
