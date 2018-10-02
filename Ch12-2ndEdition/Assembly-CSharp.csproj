@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\Enemy\ReactiveTarget.cs" />
     <Compile Include="Assets\Scripts\Enemy\SceneController.cs" />
     <Compile Include="Assets\Scripts\Enemy\WanderingAI.cs" />
+    <Compile Include="Assets\Scripts\Managers\DataManager.cs" />
     <Compile Include="Assets\Scripts\Managers\IGameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Managers\Managers.cs" />
@@ -83,9 +84,13 @@
     <Compile Include="Assets\Scripts\Messenger\InventoryPopup.cs" />
     <Compile Include="Assets\Scripts\Messenger\Messenger.cs" />
     <Compile Include="Assets\Scripts\Messenger\UIController.cs" />
+    <Compile Include="Assets\Scripts\MissionManager.cs" />
+    <Compile Include="Assets\Scripts\ObjectiveTrigger.cs" />
     <Compile Include="Assets\Scripts\OrbitCamera.cs" />
     <Compile Include="Assets\Scripts\PointClickMovement.cs" />
     <Compile Include="Assets\Scripts\RelatativeMovement.cs" />
+    <Compile Include="Assets\Scripts\StartupController.cs" />
+    <Compile Include="Assets\Scripts\StartupEvent.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/MediaHub/06_Unity/Ch12-2ndEdition/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
