@@ -11,6 +11,10 @@ public class WanderingAI : MonoBehaviour {
     private bool _alive;
 
     [SerializeField] private GameObject fireballPrefab;
+
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip hitSound;
+
     private GameObject _fireball;
 
 	// Use this for initialization
@@ -42,6 +46,9 @@ public class WanderingAI : MonoBehaviour {
                     _fireball = Instantiate(fireballPrefab) as GameObject;
                     //поместим огненный шар перед врагом и нацелим его в направлении его движения
                     _fireball.transform.position = transform.TransformPoint(Vector3.forward * 1.5f);
+
+                    audioSource.PlayOneShot(hitSound);
+                    
                     _fireball.transform.rotation = transform.rotation;
                 }
 
