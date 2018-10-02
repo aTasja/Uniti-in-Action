@@ -242,6 +242,34 @@ Ch11 from 2nd Edition of the book - Playing audio: sound affects and music
 
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch11-2ndEdition/Scene.png" align="left" height="500" width="850">
 
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
+<br/>  
+<br/> 
+  
+Ch12 from 2nd Edition of the book - Putting the parts together into a complete game
+-------------------------------------------------------------------------------------
+
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch12-2ndEdition/Scene.png" align="left" height="500" width="850">
+
 
 
   
