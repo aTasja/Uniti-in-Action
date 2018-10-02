@@ -2,14 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Fireball : MonoBehaviour {
 
     public float speed = 10.0f;
     public int damage = 1;
 
-	
-	// Update is called once per frame
-	void Update () {
+    //[SerializeField] private AudioSource soundSource;
+    //[SerializeField] private AudioClip hitWallSound;
+    //[SerializeField] private AudioClip hitPlayerSound;
+
+    // Update is called once per frame
+    void Update () {
         transform.Translate(0, 0, speed * Time.deltaTime);
 	}
 
@@ -20,6 +24,11 @@ public class Fireball : MonoBehaviour {
         {
             Debug.Log("Player hit");
             player.Hurt(damage);
+            //soundSource.PlayOneShot(hitPlayerSound);
+        }
+        else
+        {
+            //soundSource.PlayOneShot(hitWallSound);
         }
         Destroy(this.gameObject);
     }
