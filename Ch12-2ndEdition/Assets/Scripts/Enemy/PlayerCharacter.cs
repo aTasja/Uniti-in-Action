@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class PlayerCharacter : MonoBehaviour {
 
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip impactSound;
+
     public void Hurt(int damage)
     {
-       Managers.Player.ChangeHealth(-damage);
+        audioSource.PlayOneShot(impactSound);
+        Managers.Player.ChangeHealth(-damage);
     }
 }

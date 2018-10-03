@@ -5,16 +5,12 @@ using UnityEngine;
 public class DeviceOperator : MonoBehaviour {
 
     public float radius = 1.5f; // расстояние, с кторого персонаж может активировать устройства
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
+    
 	// Update is called once per frame
 	void Update () {
         if (Input.GetButtonDown("Fire3"))
         {
+            Debug.Log("SHIFT BUTTON PRESSED");
             Collider[] hitColliders = Physics.OverlapSphere(transform.position, radius); // метод OverlapSphere возвращает список ближайших объектов
             foreach (Collider hitCollider in hitColliders)
             {

@@ -114,10 +114,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   damage: 10
-  soundSource: {fileID: 82273932019010482, guid: e4c2dd1497c4604449d22cc105fdc2d3,
+  audioSource: {fileID: 82273932019010482, guid: e4c2dd1497c4604449d22cc105fdc2d3,
     type: 2}
-  hitWallSound: {fileID: 8300000, guid: 3864ab22e0e99a941ab076432e429f5e, type: 3}
-  hitPlayerSound: {fileID: 8300000, guid: a487f4808ed2c374d8ddf768ae32c533, type: 3}
+  wallSound: {fileID: 8300000, guid: 3864ab22e0e99a941ab076432e429f5e, type: 3}
 --- !u!135 &135822816943852878
 SphereCollider:
   m_ObjectHideFlags: 1

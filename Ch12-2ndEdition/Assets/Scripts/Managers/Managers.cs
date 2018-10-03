@@ -12,6 +12,7 @@ public class Managers : MonoBehaviour {
     public static InventoryManager Inventory { get; private set; }
     public static MissionManager Mission { get; private set; }
     public static DataManager Data { get; private set; }
+    public static AudioManager Audio { get; private set; }
 
     private List<IGameManager> _startSequence;
 
@@ -23,12 +24,14 @@ public class Managers : MonoBehaviour {
         Player = GetComponent<PlayerManager>();
         Inventory = GetComponent<InventoryManager>();
         Mission = GetComponent<MissionManager>();
+        Audio = GetComponent<AudioManager>();
 
         _startSequence = new List<IGameManager>();
         _startSequence.Add(Player);
         _startSequence.Add(Inventory);
         _startSequence.Add(Mission);
         _startSequence.Add(Data);
+        _startSequence.Add(Audio);
 
         StartCoroutine(StartupManagers());
     }

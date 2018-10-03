@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Audio\AudioPopup.cs" />
     <Compile Include="Assets\Scripts\BaseDevice.cs" />
     <Compile Include="Assets\Scripts\BasicUI.cs" />
     <Compile Include="Assets\Scripts\CollectibleItem.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\Scripts\Enemy\ReactiveTarget.cs" />
     <Compile Include="Assets\Scripts\Enemy\SceneController.cs" />
     <Compile Include="Assets\Scripts\Enemy\WanderingAI.cs" />
+    <Compile Include="Assets\Scripts\Managers\AudioManager.cs" />
     <Compile Include="Assets\Scripts\Managers\DataManager.cs" />
     <Compile Include="Assets\Scripts\Managers\IGameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\InventoryManager.cs" />
