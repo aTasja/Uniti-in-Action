@@ -9,7 +9,7 @@ public class AudioPopup : MonoBehaviour
     {
         Managers.Audio.soundMute = !Managers.Audio.soundMute;
         Managers.Audio.PlaySound(sound);
-        Debug.Log("sound TOGGLE!!");
+        //Debug.Log("sound TOGGLE!!");
     }
     public void OnSoundValue(float volume)
     {

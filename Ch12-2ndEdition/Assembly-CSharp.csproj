@@ -62,9 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Audio\AudioPopup.cs" />
-    <Compile Include="Assets\Scripts\BaseDevice.cs" />
     <Compile Include="Assets\Scripts\BasicUI.cs" />
     <Compile Include="Assets\Scripts\CollectibleItem.cs" />
+    <Compile Include="Assets\Scripts\Devices\BaseDevice.cs" />
     <Compile Include="Assets\Scripts\Devices\ColorChangeDevice.cs" />
     <Compile Include="Assets\Scripts\Devices\DeviceOperator.cs" />
     <Compile Include="Assets\Scripts\Devices\DeviceTrigger.cs" />

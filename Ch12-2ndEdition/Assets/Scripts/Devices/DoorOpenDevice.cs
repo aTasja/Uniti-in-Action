@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DoorOpenDevice : MonoBehaviour {
+public class DoorOpenDevice : BaseDevice {
     [SerializeField] private Vector3 dPos; //смещение, применяемое при открывании двери
 
 
@@ -19,6 +19,7 @@ public class DoorOpenDevice : MonoBehaviour {
         openedPos = initialPos - dPos;
     }
 
+    override
     public void Operate()
     {
         if (_open) // открываем и закрываем дверь в зависимости от ее состояния

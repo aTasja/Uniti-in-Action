@@ -42,16 +42,16 @@ public class UIController : MonoBehaviour
         {
             bool isShowing = audioPopup.gameObject.activeSelf;
             audioPopup.gameObject.SetActive(!isShowing);
-            if (isShowing)
-            {
-                Cursor.lockState = CursorLockMode.Locked;
-                Cursor.visible = false;
-            }
-            else
-            {
-                Cursor.lockState = CursorLockMode.None;
-                Cursor.visible = true;
-            }
+            //if (isShowing)
+            //{
+            //    Cursor.lockState = CursorLockMode.Locked;
+            //    Cursor.visible = false;
+            //}
+            //else
+            //{
+            //    Cursor.lockState = CursorLockMode.None;
+            //    Cursor.visible = true;
+            //}
         }
     }
     private void OnHealthUpdated()

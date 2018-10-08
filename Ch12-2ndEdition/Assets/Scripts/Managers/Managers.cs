@@ -6,6 +6,8 @@ using UnityEngine;
 [RequireComponent(typeof(InventoryManager))]
 [RequireComponent(typeof(MissionManager))]
 [RequireComponent(typeof(DataManager))]
+[RequireComponent(typeof(AudioManager))]
+
 public class Managers : MonoBehaviour {
 
     public static PlayerManager Player { get; private set; }
