@@ -106,4 +106,11 @@ public class UIController : MonoBehaviour
         levelEnding.gameObject.SetActive(true);
         levelEnding.text = "You Finished the Game!";
     }
+
+    //кнопка не работает при запуске в Unity! только в построенном приложении!
+    public void ExitGame()
+    {
+        Debug.Log("Exit Burron pressed");
+        Application.Quit();
+    }
 }

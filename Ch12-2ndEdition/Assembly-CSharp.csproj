@@ -89,6 +89,7 @@
     <Compile Include="Assets\Scripts\MissionManager.cs" />
     <Compile Include="Assets\Scripts\ObjectiveTrigger.cs" />
     <Compile Include="Assets\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\Scripts\PlatformTest.cs" />
     <Compile Include="Assets\Scripts\PointClickMovement.cs" />
     <Compile Include="Assets\Scripts\RelatativeMovement.cs" />
     <Compile Include="Assets\Scripts\StartupController.cs" />
