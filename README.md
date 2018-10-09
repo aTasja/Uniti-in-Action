@@ -298,11 +298,20 @@ Ch13 from 2nd Edition of the book - Deploying your game to players’ devices
 Desktop
 
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch12_Desktop/Scene.png" align="left" height="300" width="400">
+  <br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
+<br/>
 
 WebGL
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png" align="left" height="300" width="500">
-
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="300" width="500">
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png" align="left" height="300" width="450"><a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="300" width="450">
 
 
 
