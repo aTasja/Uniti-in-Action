@@ -270,6 +270,38 @@ Ch12 from 2nd Edition of the book - Putting the parts together into a complete g
 
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch12-2ndEdition/Scene.png" align="left" height="500" width="850">
 
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
+<br/>  
+<br/> 
+  
+Ch13 from 2nd Edition of the book - Deploying your game to players’ devices
+-------------------------------------------------------------------------------------
+
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch12_Desktop/Scene.png" align="left" height="500" width="500">
+
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png" align="left" height="500" width="500">
+
+<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="500" width="500">
+
 
 
   
