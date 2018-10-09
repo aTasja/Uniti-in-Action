@@ -7,28 +7,6 @@ Ch1 Hello world
 
 ![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch1/Scene.png)
 
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/> 
-
 Ch2-Ch3 First-Person Shooter
 -----------------------------------------
 
