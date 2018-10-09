@@ -2,7 +2,7 @@
 Book by Joseph Hocking 1st-2nd editions
 
 
-## Ch1 Hello world
+Ch1 Hello world
 ------------
 
 
@@ -30,7 +30,7 @@ Book by Joseph Hocking 1st-2nd editions
 <br/>  
 <br/> 
 
-## Ch2-Ch3 First-Person Shooter
+Ch2-Ch3 First-Person Shooter
 -----------------------------------------
 
 
@@ -295,7 +295,7 @@ Ch12 from 2nd Edition of the book - Putting the parts together into a complete g
   
 Ch13 from 2nd Edition of the book - Deploying your game to players’ devices
 -------------------------------------------------------------------------------------
-Desktop
+### Desktop
 
 
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch12_Desktop/Scene.png" align="left" height="300" width="400">
@@ -311,9 +311,14 @@ Desktop
 <br/> 
 <br/>
 
-WebGL
+### WebGL - browser
+
+- Send meassge from Unity to browser
 
 <img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="300" width="450">
+
+- Use custom template and send message from browser to Unity
+
 <a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png" align="left" height="300" width="450"><a href="url">
   
 
