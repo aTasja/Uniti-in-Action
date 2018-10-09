@@ -19,11 +19,7 @@ Ch4 Graphics
 <br/>  
 <br/>  
 <br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+<br/>   
 
 Ch5 Memory Card Game
 ---------------------
@@ -64,68 +60,25 @@ Ch11 from 2nd Edition of the book - Playing audio: sound affects and music
 Ch12 from 2nd Edition of the book - Putting the parts together into a complete game
 -------------------------------------------------------------------------------------
 
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch12-2ndEdition/Scene.png" align="left" height="500" width="850">
+![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch12-2ndEdition/Scene.png)
 
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/> 
-<br/>  
-<br/> 
   
 Ch13 from 2nd Edition of the book - Deploying your game to players’ devices
 -------------------------------------------------------------------------------------
 ### Desktop
 
-
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch12_Desktop/Scene.png" align="left" height="300" width="400">
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch12_Desktop/Scene.png)
 
 ### WebGL - browser
 
 - Send meassge from Unity to browser
 
-<img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="300" width="450">
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>
+![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png)
 
 - Use custom template and send message from browser to Unity
 
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png" align="left" height="300" width="450"><a href="url">
-  
+![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/CustomTemplate/Scene.png)
+
 
 
 
