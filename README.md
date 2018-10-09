@@ -306,16 +306,19 @@ Ch13 from 2nd Edition of the book - Deploying your game to players’ devices
 <br/>  
 <br/>  
 <br/>  
-<br/>  
-<br/>  
-<br/> 
-<br/>
 
 ### WebGL - browser
 
 - Send meassge from Unity to browser
 
 <img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch13-2ndEdition/Game_ch5_WebGL/MsgFromUnityToWebGL/Scene.png" align="left" height="300" width="450">
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 
 - Use custom template and send message from browser to Unity
 
