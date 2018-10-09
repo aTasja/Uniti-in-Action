@@ -7,8 +7,6 @@ Ch1 Hello world
 
 ![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch1/Scene.png)
 
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch1/Scene.png" align="left" height="500" width="650">
-
 <br/>  
 <br/>  
 <br/>  
@@ -34,8 +32,7 @@ Ch1 Hello world
 Ch2-Ch3 First-Person Shooter
 -----------------------------------------
 
-
-<a href="url"><img src="https://github.com/aTasja/Unity-in-Action/blob/master/Ch2-Ch3/Scene.png" align="left" height="500" width="650">
+![alt text](https://github.com/aTasja/Unity-in-Action/blob/master/Ch2-Ch3/Scene.png)
 <br/>  
 <br/>  
 <br/>  
